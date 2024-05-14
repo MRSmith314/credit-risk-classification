@@ -3,7 +3,7 @@ A Logistic Regression Model used to evaluate loan risk on a dataset of historica
 
 Using the dataset of historical lending activity the data was split into training and testing sets. The training data was used to fit a Logistic Regression Model and the predictions were made for the tesing data labels using the testing feature data and the fitted model. The model's performance was evaluated using a confusion matrix and classification report. (See Credit Risk Report)
 
-# Repositor Contents
+# Repository Contents
 - Credit Risk Folder
   - credit_risk_classification.ipynb
   - lending_data.csv
